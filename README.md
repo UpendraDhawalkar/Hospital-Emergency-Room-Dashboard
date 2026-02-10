@@ -92,7 +92,7 @@ This project provides actionable insights into **patient flow, waiting time, adm
 ![Dashboard](Image/dashboard.jpg)
 
 ### 🔹 Power BI Dashboard
-![Power BI Dashboard](Image/powerbi_dashboard.jpg)
+![Power BI Dashboard](Image/Dashboard_powerbi.png)
 
 ---
 
