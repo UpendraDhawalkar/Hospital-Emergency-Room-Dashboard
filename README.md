@@ -1,10 +1,10 @@
-# 🏥 Hospital Emergency Room Dashboard (using excel )
+# 🏥 Hospital Emergency Room Dashboard  
+### (Microsoft Excel & Power BI)
 
 ## 📌 Project Overview
-The **Hospital Emergency Room Dashboard** is an interactive data visualization project designed to analyze and monitor emergency room performance.  
-It provides insights into patient flow, waiting time, admission status, satisfaction scores, and departmental referrals to support better healthcare decision-making.
+The **Hospital Emergency Room Dashboard** is an interactive data visualization project developed using **Microsoft Excel and Power BI** to analyze and monitor emergency room performance.
 
-This dashboard helps hospital administrators and healthcare professionals quickly understand operational efficiency and patient demographics.
+This project provides actionable insights into **patient flow, waiting time, admission status, satisfaction levels, and departmental referrals**, enabling hospital administrators and healthcare professionals to make data-driven decisions and improve operational efficiency.
 
 ---
 
@@ -14,20 +14,26 @@ This dashboard helps hospital administrators and healthcare professionals quickl
 - Track patient satisfaction levels
 - Understand patient distribution by age, gender, and department
 - Evaluate admission vs non-admission trends
+- Compare insights across **Excel and Power BI dashboards**
 
 ---
 
 ## 🛠 Tools & Technologies Used
-- **Microsoft Excel**
-  - Pivot Tables
-  - Pivot Charts
-  - Slicers (Month & Year)
-  - Advanced formulas
-- **Data Visualization**
-  - KPI Cards
-  - Bar Charts
-  - Donut Charts
-  - Pie Charts
+
+### 🔹 Microsoft Excel
+- Pivot Tables & Pivot Charts  
+- Slicers (Month & Year)  
+- KPI Cards  
+- Advanced formulas  
+- Interactive dashboards  
+
+### 🔹 Microsoft Power BI
+- Power Query for data cleaning  
+- Data Modeling  
+- DAX Measures  
+- Interactive visualizations  
+- Drill-through & filtering  
+- Dynamic KPI cards  
 
 ---
 
@@ -41,69 +47,81 @@ This dashboard helps hospital administrators and healthcare professionals quickl
 ---
 
 ## 📈 Dashboard Features
+
 ### 🔹 Patient Analysis
 - Patient count by **age group**
 - Patient distribution by **gender**
-- Monthly patient trends
+- Monthly patient visit trends
+- Year & month-wise filtering (Excel & Power BI)
 
 ### 🔹 Operational Insights
 - Admission vs Not Admitted status
 - Average waiting time analysis
-- Service efficiency (on-time vs delayed)
+- Service efficiency (on-time vs delayed patients)
+- KPI-based performance monitoring
 
 ### 🔹 Department Referral Analysis
-- General Practice
-- Orthopedics
-- Physiotherapy
-- Gastroenterology
-- Cardiology
-- Neurology
-- Renal
+- General Practice  
+- Orthopedics  
+- Physiotherapy  
+- Gastroenterology  
+- Cardiology  
+- Neurology  
+- Renal  
 
 ---
 
 ## 🗂 Dataset Information
-- Source: Hospital Emergency Room Records  
-- File Formats Used:
-  - `.csv`
-  - `.xlsx`
-- Data includes:
-  - Patient age & gender
-  - Admission status
-  - Department referral
-  - Waiting time
-  - Satisfaction score
-  - Visit month & year
+- **Source:** Hospital Emergency Room Records  
+- **File Formats Used:**  
+  - `.csv`  
+  - `.xlsx`  
+- **Data Includes:**  
+  - Patient age & gender  
+  - Admission status  
+  - Department referral  
+  - Waiting time  
+  - Satisfaction score  
+  - Visit month & year  
 
 ---
+
 ## 📸 Dashboard Screenshots
 
+### 🔹 Excel Dashboard
 ![Dashboard](Image/dashboard.jpg)
 
---
+### 🔹 Power BI Dashboard
+![Power BI Dashboard](Image/powerbi_dashboard.jpg)
+
+---
+
 ## 🧠 Insights Gained
 - Majority of patients fall within the **30–44 age group**
 - Nearly **half of the patients are admitted**
 - **General Practice** receives the highest referrals
-- Improved patient satisfaction is linked with reduced waiting time
-- A significant portion of patients still experience delays, highlighting areas for operational improvement
+- Reduced waiting time directly improves patient satisfaction
+- A significant portion of patients experience delays, indicating scope for operational improvement
+- Power BI enables deeper drill-down and interactivity compared to Excel
 
 ---
 
 ## 🚀 Future Enhancements
-- Automate data refresh using Power Query
-- Add trend comparison across multiple years
-- Include predictive analysis for patient inflow
-- Integrate with Power BI or Tableau for advanced analytics
+- Automate data refresh using **Power Query**
+- Add multi-year trend comparison
+- Implement predictive analysis for patient inflow
+- Integrate real-time hospital data
+- Add role-based dashboards
 
 ---
 
 ## 📌 Conclusion
-This dashboard provides a clear and actionable overview of emergency room operations, enabling hospitals to identify bottlenecks, improve patient care, and optimize resource allocation.
+The **Hospital Emergency Room Dashboard (Excel & Power BI)** provides a comprehensive and interactive overview of emergency room operations.  
+It helps identify bottlenecks, enhance patient care, and optimize hospital resource allocation through data-driven insights.
 
 ---
 
 ## 👤 Author
-**Name:** Upendra Dhawalkar   
-📧 Email: upendradhawalkar18@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/upendradhawalkar  
+**Name:** Upendra Dhawalkar  
+📧 **Email:** upendradhawalkar18@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/upendradhawalkar  
