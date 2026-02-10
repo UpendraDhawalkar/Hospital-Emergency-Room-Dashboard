@@ -89,10 +89,10 @@ This project provides actionable insights into **patient flow, waiting time, adm
 ## 📸 Dashboard Screenshots
 
 ### 🔹 Excel Dashboard
-![Dashboard](Image/dashboard.jpg)
+![Dashboard](https://github.com/UpendraDhawalkar/Hospital-Emergency-Room-Dashboard/blob/main/image/dashboard.jpg)
 
 ### 🔹 Power BI Dashboard
-![Power BI Dashboard](Image/Dashboard_powerbi.png)
+![Power BI Dashboard](https://github.com/UpendraDhawalkar/Hospital-Emergency-Room-Dashboard/blob/main/image/Dashboard_powerbi.png)
 
 ---
 
